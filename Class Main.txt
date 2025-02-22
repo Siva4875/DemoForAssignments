@@ -1,0 +1,4 @@
+Class Main
+{
+	console.writeline("Sample Text");
+}
